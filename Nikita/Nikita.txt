@@ -1,0 +1,7 @@
+Hi! I’m Nikita
+An IT undergraduate, willing to enhance my skills 
+Database skill - MySql, MongoDB
+Libraries: Bootstrap4, jQuery
+Programming:  Python , javascript
+Platforms: GitHub, Ms office, Atom, Pycharm, VS, jupyter NB
+version control: Git
