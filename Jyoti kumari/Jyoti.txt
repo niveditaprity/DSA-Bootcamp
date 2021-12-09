@@ -1,9 +1,0 @@
-Hello, My name is Jyoti kumari.
-I am a final year B.tech student of MIT Muzaffarpur having strong knowledge of Data sturcture and algorithms.
-I am a 2022 passout student.
-
-Skills:
-Data Structure, Python, Java, C, C++, React, JavaScript, MySQL, PHP, Bootstrap, CSS.
-
-Hobbies:
-Net surfing, Programming, Listening Music
