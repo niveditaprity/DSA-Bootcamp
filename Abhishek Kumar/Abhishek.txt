@@ -1,0 +1,6 @@
+Hi! I’m Abhishek
+An IT undergraduate, willing to enhance my skills 
+Database skill - MySql
+core skills :  Python , c++ , Data structure and Algorithm, , HTML , css ,Javascript
+Platforms: GitHub, Ms office, Atom, Pycharm, VS, jupyter 
+version control: Git
