@@ -32,3 +32,8 @@
 9. lower_bound
 10. next_permutations
 11. pre_permutations
+**Iterators**
+1. begin() :- This function is used to return the beginning position of the container.
+
+2. end() :- This function is used to return the after end position of the container.
+3. vector<int>::iterator itr
