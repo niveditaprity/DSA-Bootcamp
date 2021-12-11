@@ -47,5 +47,5 @@
  
  [C++ STL Hackerrank ](https://www.hackerrank.com/domains/cpp/stl/page/1)
  
- [C++ STL InterviewBit ](https://www.hackerrank.com/domains/cpp/stl/page/1)
+ [C++ STL InterviewBit ](https://www.interviewbit.com/courses/fast-track-cpp/topics/stl/)
  
