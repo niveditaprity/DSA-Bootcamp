@@ -49,3 +49,9 @@
  
  [C++ STL InterviewBit ](https://www.interviewbit.com/courses/fast-track-cpp/topics/stl/)
  
+ ###Array
+ 
+ ### Questions practice
+ 
+ [Top 50 array questions for interview](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/)
+ 
