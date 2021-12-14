@@ -1,0 +1,8 @@
+int findFrequency(vector<int> v, int x){
+  map<int,int>mp;
+  for(int i=0;i<v.size();i++)
+  {
+      mp[v[i]]++;
+  }
+  return mp[x];// Your code here
+}
