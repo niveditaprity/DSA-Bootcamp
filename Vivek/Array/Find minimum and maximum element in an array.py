@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Saummya 
-Saummya
-/
-ARRAY-GFG
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-ARRAY-GFG/LEVEL1/Find minimum and maximum element in an array.py /
-@Saummya
-Saummya BASIC
-Latest commit 4a660d1 2 days ago
- History
- 1 contributor
-47 lines (32 sloc)  728 Bytes
-   
 def getMinMax( a, n):
     m1=[]
     max=a[0]
