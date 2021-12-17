@@ -75,5 +75,9 @@
  
  [ Maximum Units on a Truck ](https://leetcode.com/problems/maximum-units-on-a-truck/)
  
- 2.Medium
+ ## Week2
+   *  Sliding Window Algorithm
+   *  Two Pointers
+   *  Kadane's Algorithms
+  
  
