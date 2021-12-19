@@ -77,7 +77,14 @@
  
  ## Week2
    *  Sliding Window Algorithm
+   1.Easy
+   [1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
+   [1763. Longest Nice Substring] (https://leetcode.com/problems/longest-nice-substring/)
+   [643. Maximum Average Subarray I] (https://leetcode.com/problems/maximum-average-subarray-i/)
    *  Two Pointers
+   [167. Two Sum II - Input Array Is Sorted ](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+   [] ()
    *  Kadane's Algorithms
+    []
   
  
