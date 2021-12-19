@@ -86,17 +86,18 @@
    [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
  
    *  Two Pointers
+ 
     1.Easy 
  
-   [167. Two Sum II - Input Array Is Sorted ](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+   [ 167. Two Sum II - Input Array Is Sorted ](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
  
-   [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+   [ 680. Valid Palindrome II ](https://leetcode.com/problems/valid-palindrome-ii/)
  
-   [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)
+   [ 696. Count Binary Substrings ](https://leetcode.com/problems/count-binary-substrings/)
     
-   [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+   [ 125. Valid Palindrome ](https://leetcode.com/problems/valid-palindrome/)
     
-   [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+   [ 88. Merge Sorted Array ](https://leetcode.com/problems/merge-sorted-array/)
     
     2.Medium
  
@@ -110,13 +111,13 @@
      
      [443. String Compression](https://leetcode.com/problems/string-compression/)
    
-     [18. 4Sum](https://leetcode.com/problems/4sum/)
+    [18. 4Sum](https://leetcode.com/problems/4sum/)
  
     
  
  
    *  Kadane's Algorithms
  
- [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+    [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
   
  
