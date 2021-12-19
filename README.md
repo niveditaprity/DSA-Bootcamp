@@ -101,23 +101,23 @@
     
     2.Medium
  
-    [31. Next Permutation](https://leetcode.com/problems/next-permutation/)
+    [ 31. Next Permutation ](https://leetcode.com/problems/next-permutation/)
  
-    [15. 3Sum](https://leetcode.com/problems/3sum/)
+    [ 15. 3Sum ](https://leetcode.com/problems/3sum/)
  
-    [809. Expressive Words](https://leetcode.com/problems/expressive-words/)
+    [ 809. Expressive Words ](https://leetcode.com/problems/expressive-words/)
  
-    [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+    [ 11. Container With Most Water ](https://leetcode.com/problems/container-with-most-water/)
      
-     [443. String Compression](https://leetcode.com/problems/string-compression/)
+     [ 443. String Compression ](https://leetcode.com/problems/string-compression/)
    
-    [18. 4Sum](https://leetcode.com/problems/4sum/)
+    [ 18. 4Sum ](https://leetcode.com/problems/4sum/)
  
     
  
  
    *  Kadane's Algorithms
  
-    [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+    [ 53. Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/)
   
  
