@@ -98,10 +98,11 @@
    [ 125. Valid Palindrome ](https://leetcode.com/problems/valid-palindrome/)
     
    [ 88. Merge Sorted Array ](https://leetcode.com/problems/merge-sorted-array/)
+ 
     
     2.Medium
  
-    [ 31. Next Permutation ](https://leetcode.com/problems/next-permutation/)
+     [ 31. Next Permutation ](https://leetcode.com/problems/next-permutation/)
  
     [ 15. 3Sum ](https://leetcode.com/problems/3sum/)
  
