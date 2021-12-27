@@ -134,3 +134,15 @@
  [Design Hashmap](https://leetcode.com/problems/design-hashmap/)
  
  [palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/)
+ 
+ [Delete without head pointer](https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1)
+ 
+ [Add two numbers represented by linked lists ](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
+ 
+ [Remove loop in Linked List](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
+ 
+ [Merge Sort for Linked List ](https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1)
+ 
+ [Intersection Point in Y Shapped Linked Lists ](https://www.geeksforgeeks.org/must-do-coding-questions-for-product-based-companies/)
+ 
+ [Rotate a Linked List ](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1)
