@@ -143,6 +143,6 @@
  
  [Merge Sort for Linked List ](https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1)
  
- [Intersection Point in Y Shapped Linked Lists ](https://www.geeksforgeeks.org/must-do-coding-questions-for-product-based-companies/)
+ [Intersection Point in Y Shapped Linked Lists ](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
  
  [Rotate a Linked List ](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1)
