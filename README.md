@@ -146,3 +146,7 @@
  [Intersection Point in Y Shapped Linked Lists ](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
  
  [Rotate a Linked List ](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1)
+ 
+ **Must Do Coding Questions of Linkedlist
+ 
+ [Linkedlist](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/#LinkedList)
