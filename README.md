@@ -147,6 +147,6 @@
  
  [Rotate a Linked List ](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1)
  
- **Must Do Coding Questions of Linkedlist
+ **Must Do Coding Questions of Linkedlist**
  
  [Linkedlist](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/#LinkedList)
