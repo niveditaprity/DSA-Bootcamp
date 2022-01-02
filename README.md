@@ -55,7 +55,7 @@
  
  [Top 50 array questions for interview](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/)
  
-  **Array questions on Leetcode
+  ** Array questions on Leetcode
  
  1.Easy
  
@@ -75,5 +75,78 @@
  
  [ Maximum Units on a Truck ](https://leetcode.com/problems/maximum-units-on-a-truck/)
  
- 2.Medium
+ ## Week2
+   *  Sliding Window Algorithm
+   1.Easy
  
+   [1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
+ 
+   [1763. Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/)
+ 
+   [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
+ 
+   *  Two Pointers
+ 
+    1.Easy 
+ 
+   [ 167. Two Sum II - Input Array Is Sorted ](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+ 
+   [ 680. Valid Palindrome II ](https://leetcode.com/problems/valid-palindrome-ii/)
+ 
+   [ 696. Count Binary Substrings ](https://leetcode.com/problems/count-binary-substrings/)
+    
+   [ 125. Valid Palindrome ](https://leetcode.com/problems/valid-palindrome/)
+    
+   [ 88. Merge Sorted Array ](https://leetcode.com/problems/merge-sorted-array/)
+ 
+    2.Medium
+ 
+   [ 31. Next Permutation ](https://leetcode.com/problems/next-permutation/)
+ 
+   [ 15. 3Sum ](https://leetcode.com/problems/3sum/)
+ 
+   [ 809. Expressive Words ](https://leetcode.com/problems/expressive-words/)
+ 
+   [ 11. Container With Most Water ](https://leetcode.com/problems/container-with-most-water/)
+     
+   [ 443. String Compression ](https://leetcode.com/problems/string-compression/)
+   
+   [ 18. 4Sum ](https://leetcode.com/problems/4sum/)
+ 
+   *  Kadane's Algorithms
+ 
+   [ 53. Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/)
+  
+  ## Week3
+ 
+ **Linked List**
+  
+ [Linked List Basic](https://practice.geeksforgeeks.org/explore/?category%5B%5D=Linked%20List&difficulty%5B%5D=-2&difficulty%5B%5D=-1&page=1&category%5B%5D=Linked%20List)
+ 
+ [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+ 
+ [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+ 
+ [Reverse a Linkedlist](https://leetcode.com/problems/reverse-linked-list/)
+ 
+ [merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+ 
+ [Design Hashmap](https://leetcode.com/problems/design-hashmap/)
+ 
+ [palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/)
+ 
+ [Delete without head pointer](https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1)
+ 
+ [Add two numbers represented by linked lists ](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
+ 
+ [Remove loop in Linked List](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
+ 
+ [Merge Sort for Linked List ](https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1)
+ 
+ [Intersection Point in Y Shapped Linked Lists ](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
+ 
+ [Rotate a Linked List ](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1)
+ 
+ **Must Do Coding Questions of Linkedlist**
+ 
+ [Linkedlist](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/#LinkedList)
