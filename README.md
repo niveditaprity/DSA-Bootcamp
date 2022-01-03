@@ -155,7 +155,7 @@
  
  ### Array
  
- 1.Day1
+ 1.DAY1
  
  [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
  
