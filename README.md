@@ -150,3 +150,17 @@
  **Must Do Coding Questions of Linkedlist**
  
  [Linkedlist](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/#LinkedList)
+ 
+ ## Week4
+ 
+ ### Array
+ 
+ **Day1**
+ 
+ [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+ 
+ [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
+ 
+ [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+ 
+ 
