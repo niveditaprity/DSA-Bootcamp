@@ -163,4 +163,12 @@
  
  [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
  
+ 2. DAY2
+ 
+ 
+ [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)
+ 
+ [809.Expressive Words](https://leetcode.com/problems/expressive-words/)
+ 
+ [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
  
