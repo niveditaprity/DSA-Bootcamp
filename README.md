@@ -172,3 +172,15 @@
  
  [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
  
+## Week5
+ 
+ ### Stack
+ [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+ 
+ [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+ 
+ [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+ 
+ [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
+ 
+ [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
