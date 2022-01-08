@@ -184,3 +184,25 @@
  [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
  
  [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+ 
+ [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
+ 
+ [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+ 
+ [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
+ 
+ [71. Simplify Path](https://leetcode.com/problems/simplify-path/)
+ 
+ [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)
+ 
+ [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
+ 
+ [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+ 
+ [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+ 
+ [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)
+ 
+ [155. Min Stack](https://leetcode.com/problems/min-stack/)
+ 
+ [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
