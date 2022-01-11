@@ -1,0 +1,13 @@
+class Solution:
+    
+    #Function to return list of integers visited in snake pattern in matrix.
+    def snakePattern(self, matrix):
+        res = []
+        for i in range(n):
+            if i%2 != 0:
+                for j in range(n-1,-1,-1):
+                    res.append(matrix[i][j])
+            else:
+                for j in range(n):
+                    res.append(matrix[i][j])
+        return res
