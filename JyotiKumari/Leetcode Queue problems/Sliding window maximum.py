@@ -6,7 +6,7 @@ class Solution:
         for i in range(k):
             while hold and nums[i] >= nums[hold[-1]] :
                 hold.pop()
-            hold.append(i);
+            hold.append(i)
         res.append(nums[hold[0]])
         
         for i in range(k, n):
