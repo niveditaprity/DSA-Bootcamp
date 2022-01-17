@@ -1,4 +1,4 @@
- Node is defined as 
+/*Node is defined as 
 struct node
 {
     int data;
