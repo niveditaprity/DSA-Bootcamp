@@ -206,3 +206,31 @@
  [155. Min Stack](https://leetcode.com/problems/min-stack/)
  
  [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
+ 
+ 
+ ## Week6
+ 
+ #### Queue
+ 
+ [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)
+ 
+ [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
+ 
+ [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+ 
+ [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
+ 
+ [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+ 
+ [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+ 
+ [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)
+ 
+ [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+ 
+ [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
+ 
+ [1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)
+
+ 
+ 
