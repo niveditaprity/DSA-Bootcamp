@@ -206,3 +206,70 @@
  [155. Min Stack](https://leetcode.com/problems/min-stack/)
  
  [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
+ 
+ 
+ ## Week6
+ 
+ #### Queue
+ 
+ [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)
+ 
+ [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
+ 
+ [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+ 
+ [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
+ 
+ [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+ 
+ [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+ 
+ [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)
+ 
+ [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+ 
+ [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
+ 
+ [1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)
+
+ ## Week7
+ 
+ #### Binary Search
+ 
+ [704. Binary Search](https://leetcode.com/problems/binary-search/)
+ 
+ [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+ 
+ [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
+ 
+ [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)
+ 
+ [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
+ 
+ 
+ [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
+ 
+ [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+ 
+ [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
+ 
+ [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+ 
+ [540. Single Element in a Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+ 
+ [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
+ 
+ [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
+ 
+ [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
+ 
+ 
+ [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
+ 
+ [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)
+ 
+ [1044. Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)
+ 
+ [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
+ 
+ 

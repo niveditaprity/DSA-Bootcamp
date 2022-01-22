@@ -54,6 +54,42 @@ class Solution:
 #APPROACH 2
 class Solution:
     def calculate(self, s: str) -> int:
+        def infixtopostfix(s):
+            output=[]
+            operator=[]
+            priority={'(':0,'+':1,'-':1,'*':2,'/':2,'^':3}
+            for ch in s:
+                if ch=='(':
+                     operator.append(ch)
+                elif ch==')':
+                    while operator[-1]!='(':
+                        ele=operator.pop()
+                        output.append(ele)
+                    operator.pop()
+
+                elif (ch=='+' or ch=='-' or ch=='*' or ch=='/' or ch=='^' ):
+                    if len(operator)>0:
+                        while priority[operator[-1]]>=priority[ch]:
+                            ele=operator.pop()
+                            output.append(ele)
+
+                            if len(operator)==0:
+                                break
+                    operator.append(ch)
+                else:
+                    output.append(ch)
+
+            while len(operator):
+                ele=operator.pop()
+                output.append(ele)
+
+            postfix=[]
+            for ele in output:
+                #print(ele,end='')
+                postfix.append(ele)
+
+            return postfix
+
         
         def eval_postfix(arr):
             stack=[]
@@ -64,62 +100,27 @@ class Solution:
                 else:
                     first=int(stack.pop())
                     sec= int(stack.pop())
-                    
+
                     if item=="+":
                         stack.append(sec+first)
-                        
+
                     if item=="-":
                         stack.append(sec-first)
-                        
+
                     if item=="*":
                         stack.append(sec*first)
-                    
+
                     if item=="/":
                         stack.append(sec/first)
-                        
+
                     if item=="%":
                         stack.append(sec%first)
-                        
+
             return stack[-1]
+
+
+        postfix=infixtopostfix(s)
+        result=eval_postfix(postfix)
+        print(result)
         
-        
-        
-        
-        
-        
-        
-        #convertiing infix to postfix
-        output=[]
-        operator=[]
-        priority={'(':0,'+':1,'-':1,'*':2,'/':2,'^':3}
-        for ch in s:
-            if ch=='(':
-                operator.append(ch)
-            elif ch==')':
-                while operator[-1]!='(':
-                    ele=operator.pop()
-                    output.append(ele)
-                operator.pop()
-                
-            elif (ch=='+' or ch=='-' or ch=='*' or ch=='/' or ch=='^' ):
-                if len(operator)>0:
-                    while priority[operator[-1]]>=priority[ch]:
-                        ele=operator.pop()
-                        output.append(ele)
-                        
-                        if len(operator)==0:
-                            break
-                operator.append(ch)
-            else:
-                output.append(ch)
-        while len(operator):
-            ele=operator.pop()
-            output.append(ele)
-        
-        postfix=[]
-        for ele in output:
-            postfix.append(ele)
-            
-            
-        eval_postfix(postfix)
-                        
+ 
