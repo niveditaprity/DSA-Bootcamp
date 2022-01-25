@@ -22,4 +22,8 @@ Instead of naive iteration, one could resort to another more efficient algorithm
 Time complexity : \mathcal{O}(\log N)O(logN).
 
 Space complexity : \mathcal{O}(1)O(1).
+
+"Always thought that binary search will only be used if there is "sorted " word involved in the question.
+Amazed to see the way binary search is used to solve this problem.
+very good question."
 '''
