@@ -1,0 +1,11 @@
+    def middleNode(self, head):
+        count =0 
+        p = head
+        while p:
+            p = p.next
+            count+=1
+        res = count // 2 + 1
+        for i in range(1,res):
+            head = head.next
+        return head
+        
