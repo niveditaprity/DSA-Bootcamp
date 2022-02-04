@@ -1,0 +1,11 @@
+def inorder_Rec(root,lst):
+    if root == None:
+        return 
+    inorder_Rec(root.left,lst)
+    lst.append(root.data)
+    inorder_Rec(root.right,lst)
+
+def inOrder(root):
+    lst = []
+    inorder_Rec(root,lst)
+    return lst
