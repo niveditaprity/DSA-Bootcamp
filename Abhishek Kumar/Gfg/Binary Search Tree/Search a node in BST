@@ -1,0 +1,10 @@
+    def search(self, root, x):
+        #code here
+        if root == None:
+            return False
+        if root.data == x:
+            return True
+        if root.data < x:
+            return self.search(root.right,x)
+        else:
+            return self.search(root.left,x)
