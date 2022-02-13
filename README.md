@@ -308,4 +308,22 @@
  
  [939. Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/)
  
-
+## Week9
+ 
+ #### Tree
+ 
+ [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+ 
+ [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+ 
+ [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+ 
+ [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+ 
+ [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+ 
+ []()
+ 
+ []()
+ 
+ 
