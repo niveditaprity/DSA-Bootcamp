@@ -29,5 +29,5 @@ def noSibling(root):
     l1=[]
     traversal(root)
     if l1==[]:
-        return -1
+        return [-1]
     return sorted(l1)
