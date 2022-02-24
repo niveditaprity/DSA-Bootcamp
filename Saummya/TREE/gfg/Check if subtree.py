@@ -1,6 +1,7 @@
 
 
 '''
+
 class Node:
     def _init_(self, val):
         self.right = None
